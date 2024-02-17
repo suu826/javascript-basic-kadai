@@ -10,6 +10,6 @@ userName2 = "1.7";
 
 userName3 = "1.7";
 
-let userNumber = 68 / (1.7 * 1.7);
+let userNumber = userName1 / (userName2 * userName3);
 
 console.log(userNumber);
